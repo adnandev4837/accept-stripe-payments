@@ -1,0 +1,5 @@
+.stripe-flex{
+    display: flex;
+    width: 30%;
+    flex-direction: column;
+}
